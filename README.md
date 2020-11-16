@@ -6,8 +6,6 @@ The shortcuts are mostly for my own productivity enhancements, but can be modifi
 
 The shortcuts work by pressing the keys **after** pressing F1 (and any subsequant key), not simultaneous.
 
-**F1** + **T** - Pins current 
-
 | Key combination |Outcome |
 |---|---|
 |**F1** + **T**| Pins current window to the top of the screen  |
